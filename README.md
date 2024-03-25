@@ -27,3 +27,13 @@ Easy to use FluxAuth.com Base written in C++
 ```
 
 #### Reminder: Make sure to refresh your files in visual studio, and right click the .lib file and press *'Include in project'*
+
+
+## Build settings
+#### These are my options for building. And they should already be set by default.
+
+```bash
+  Release | x64
+  C++ 20
+  Multi-byte
+```
