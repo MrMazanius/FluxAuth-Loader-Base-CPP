@@ -33,7 +33,5 @@ Easy to use FluxAuth.com Base written in C++
 #### These are my options for building. And they should already be set by default.
 
 ```bash
-  Release | x64
-  C++ 20
-  Multi-byte
+  Release | x64 - C++ 20 - Multi-byte Character Set
 ```
